@@ -1,3 +1,4 @@
+sudo apt-get update -y
 pip3 install opencv-python
 sudo apt-get install libatlas-base-dev -y
 sudo apt-get install libjasper-dev -y
